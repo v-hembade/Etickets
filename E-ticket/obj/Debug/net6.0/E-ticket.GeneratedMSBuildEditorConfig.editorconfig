@@ -16,12 +16,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\projects\Etickets-main\E-ticket
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/projects/Etickets-main/E-ticket/Views/Actors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0b3JzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Etickets-main/E-ticket/Views/Cinemas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/projects/Etickets-main/E-ticket/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/projects/Etickets-main/E-ticket/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Etickets-main/E-ticket/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Etickets-main/E-ticket/Views/Movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Etickets-main/E-ticket/Views/Producers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/projects/Etickets-main/E-ticket/Views/Shared/Error.cshtml]
