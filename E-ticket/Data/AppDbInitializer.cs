@@ -1,6 +1,5 @@
 ﻿using E_ticket.Data.Enums;
 using E_ticket.Models;
-using Microsoft.AspNetCore.Identity;
 
 namespace E_ticket.Data
 {
@@ -315,5 +314,5 @@ namespace E_ticket.Data
 
         }
     }
-}
 
+}
