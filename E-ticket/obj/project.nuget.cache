@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Wth8KWxENd1soCI5F+7w2GnIi8aeQhlYkiiPxKqojpdabFWy4yqbSNy7dgcM7RExOLcOlPYkEnuDRfpiIn9nAA==",
+  "dgSpecHash": "4QLsaJVbJp/UODcIlDQm4oxtxSk9EgueOFCkzEXe3Ucif1R1Z+QGF+l/IXhEnHWQPCM4Gzrpwk+esMKsx0K6Qg==",
   "success": true,
   "projectFilePath": "D:\\projects\\Etickets-main\\E-ticket\\E-ticket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin new\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\admin new\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.23\\microsoft.aspnetcore.cryptography.internal.6.0.23.nupkg.sha512",
+    "C:\\Users\\admin new\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.23\\microsoft.aspnetcore.cryptography.keyderivation.6.0.23.nupkg.sha512",
+    "C:\\Users\\admin new\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.23\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.23.nupkg.sha512",
     "C:\\Users\\admin new\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\admin new\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\admin new\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
@@ -24,6 +27,8 @@
     "C:\\Users\\admin new\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
     "C:\\Users\\admin new\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\admin new\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\admin new\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.23\\microsoft.extensions.identity.core.6.0.23.nupkg.sha512",
+    "C:\\Users\\admin new\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.23\\microsoft.extensions.identity.stores.6.0.23.nupkg.sha512",
     "C:\\Users\\admin new\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "C:\\Users\\admin new\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\admin new\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
